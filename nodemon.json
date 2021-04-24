@@ -1,0 +1,7 @@
+{
+  "env": {
+      "BCRYPTJS_SALT_COUNT" : "10",
+      "MONGODB_ATLAS_URL" : "mongodb+srv://vignesh:JI5X0SEVIYRlwriA@general.xl7ip.mongodb.net/postdb?retryWrites=true&w=majority",
+      "JWT_PRIVATE_KEY" : "a-long-string-as-jwt-secret-key"
+  }
+}
