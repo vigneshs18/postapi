@@ -1,0 +1,11 @@
+{
+  "name": "postapi",
+  "version": "1.0.0",
+  "description": "Node powered post fetching API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vignesh S",
+  "license": "ISC"
+}
